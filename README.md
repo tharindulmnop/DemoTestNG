@@ -22,7 +22,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/tharindulmnop/DemoTestNG.git
+)
    ```  
 2. Navigate to the project folder:
    ```sh
